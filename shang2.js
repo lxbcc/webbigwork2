@@ -60,10 +60,6 @@ hua1p3.onclick=function(){
 var jian=document.getElementById("jian");
 var yi=document.getElementById("yi");
 var jia=document.getElementById("jia");
-// var x=yi.innerHTML;
-
-
-
 jian.onclick=function(){
 	var x=yi.innerHTML;
 	jia.style.cursor="pointer";
